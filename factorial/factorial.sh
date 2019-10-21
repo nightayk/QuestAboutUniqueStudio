@@ -1,5 +1,3 @@
-#!/bin/bash
-
 NUM=$1
 RET=1
 
